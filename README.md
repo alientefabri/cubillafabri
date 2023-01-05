@@ -1,5 +1,3 @@
 # Hi there👋
 
-I'm a [Fabrizio Aliente](https://), Software Developer...
-
-
+I'm a [Fabrizio Aliente](https://devcubilla.github.io/simplePortfolio/), Software Developer...
